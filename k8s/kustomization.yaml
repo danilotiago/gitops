@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: gowebserver
-  newName: danilotiago/gitopsfc
-  newTag: 2cb554ddf2ec2110077317d11f1ee056af5f57cb
+  newName: danilotiago/gitops
+  newTag: ab2cf6c1e869ef3dc2289f9d798560a1e8ba4e9c
